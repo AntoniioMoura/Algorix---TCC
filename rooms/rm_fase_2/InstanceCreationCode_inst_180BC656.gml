@@ -1,0 +1,1 @@
+texto = "Aperte a tecla espaço para pular"
